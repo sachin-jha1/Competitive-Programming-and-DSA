@@ -15,7 +15,7 @@
     - ArrayList Introduction
     - Sorting
     - Insertion Sort ✅
-    - Selection Sort
+    - Selection Sort ✅
     - Bubble Sort
     - Count Sort
     - Radix Sort
