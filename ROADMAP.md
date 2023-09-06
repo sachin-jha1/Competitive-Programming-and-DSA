@@ -16,7 +16,7 @@
     - Sorting
     - Insertion Sort ✅
     - Selection Sort ✅
-    - Bubble Sort
+    - Bubble Sort ✅
     - Count Sort
     - Radix Sort
     - Searching
