@@ -14,7 +14,7 @@
     - Input and Output
     - ArrayList Introduction
     - Sorting
-    - Insertion Sort
+    - Insertion Sort ✅
     - Selection Sort
     - Bubble Sort
     - Count Sort
